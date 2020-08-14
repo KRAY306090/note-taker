@@ -1,7 +1,7 @@
 {
     "notes":
 [
-    {"title":"Test Title","text":"Test text", "id": "test_id"},
-    {"title":"Test Title","text":"Test text", "id": "test_id"}
+    {"title":"Test Title","text":"Test text", "id": "1"},
+    {"title":"Test Title","text":"Test text", "id": "2"}
 ]
 }
