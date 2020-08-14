@@ -19,6 +19,11 @@
       "title": "Note3",
       "text": "text",
       "id": "3"
+    },
+    {
+      "title": "My New Note",
+      "text": "This is my new note!",
+      "id": "4"
     }
   ]
 }

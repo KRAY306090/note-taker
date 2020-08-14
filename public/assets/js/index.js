@@ -130,6 +130,7 @@ var getAndRenderNotes = function() {
   return getNotes().then(function(data) {
     renderNoteList(data);
   });
+  
 };
 
 $saveNoteBtn.on("click", handleNoteSave);
