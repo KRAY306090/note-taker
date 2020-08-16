@@ -54,6 +54,11 @@ app.get('/', (req, res) => {
 app.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, './public/notes.html'));
 });
+// app.delete('/api/notes/:id', (req, res) => {
+//     var key = req.params.id;
+//     notes.splice(key, 1);
+//     res.send(notes);
+// });
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}`);
 });

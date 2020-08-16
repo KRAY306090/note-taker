@@ -1,29 +1,14 @@
 {
   "notes": [
     {
-      "title": "Test Title",
+      "title": "Test Note",
       "text": "Test text",
       "id": "0"
     },
     {
-      "title": "Test Title",
-      "text": "Test text",
+      "title": "To Do:",
+      "text": "1.     Finish note taker app\n2.     Test and Deploy\n3.     Submit to Canvas",
       "id": "1"
-    },
-    {
-      "title": "Note3",
-      "text": "text",
-      "id": "2"
-    },
-    {
-      "title": "Note3",
-      "text": "text",
-      "id": "3"
-    },
-    {
-      "title": "My New Note",
-      "text": "This is my new note!",
-      "id": "4"
     }
   ]
 }
